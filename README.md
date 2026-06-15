@@ -100,7 +100,7 @@ src/
 
 ```bash
 # Clone and install
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/PailaKarthik/Vaymp-Assignment.git)
 cd vaymp-assignment
 npm install
 
