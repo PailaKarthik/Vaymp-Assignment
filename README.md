@@ -1,5 +1,7 @@
 # 🛍️ Vaymp E-Commerce App
 
+Apk [link](https://expo.dev/artifacts/eas/aixSO1qVwAgMM3LtT_OxVNmGCSqwH_b1OxGFJgatFpg.apk)
+
 A modern, fully-functional e-commerce mobile application built with React Native, Expo, and Redux Toolkit.
 
 **Status**: ✅ Production Ready | Tested on Physical Android Device
